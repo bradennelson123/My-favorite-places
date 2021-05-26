@@ -26,8 +26,7 @@ _{This website shows a picture of a dog and is dedicated to dogs.}_
 * _No known bugs_
 
 ## License
-
-Copyright <2021> <MIT Braden Nelson and Gabriel Rodriguez>
+[MIT License] Copyright (2021) <Braden Nelson and Gabriel Rodriguez>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
